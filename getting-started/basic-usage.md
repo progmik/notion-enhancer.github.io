@@ -52,7 +52,7 @@ There are 4 different types of mods that come with the notion-enhancer:
 
 The majority of mods are available in any environment the notion-enhancer runs in.
 There are a few, however, that are only available in certain environments. These
-usually addresss problems specific to that environment (e.g. adding a graphical
+usually addresses problems specific to that environment (e.g. adding a graphical
 zoom in/out slider to the app) or are only possible in that environment (e.g. tabs).
 
 You can check out all the available mods for the notion-enhancer on the
